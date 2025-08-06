@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+torch
+torchvision
+torchaudio
+opencv-python
+pillow
+numpy
+python-multipart
+realesrgan
+basicsr
+ultralytics
